@@ -1,0 +1,2 @@
+module Tutpointadmin::AuthorHelper
+end
